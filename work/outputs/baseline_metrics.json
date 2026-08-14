@@ -1,0 +1,9 @@
+{
+  "baseline_type": "Simple Weighted Rule",
+  "precision": 0.5723507712944332,
+  "recall": 0.419813061124093,
+  "f1": 0.4843561546647747,
+  "roc_auc": 0.5228645246578183,
+  "total_pages": 30000,
+  "pages_flagged_refresh": 11928
+}
